@@ -1,0 +1,207 @@
+[
+{
+"id":1,
+"name":"Ubytovna u rybnika",
+"guestincluded":3,
+"price":34.00,
+"minimumNights":3,
+"availability":3,
+"numberOfReviews":3,
+"lastReview":5,
+"roomTypes":{
+	"roomType_name":"jednopostelova",
+	"description":"krasna, moderna izba"
+	},
+"hosts":{
+	"name":"Jose",
+	"responseTime":1717784078,
+	"responseRate": 2,
+	"listingsCount":3,
+"address":{
+	"street":"Holywood",
+	"postalCode":"948494",
+	"city":"Los Angeles",
+	"country":"California"
+	}
+	},
+"addresses":{
+	"street":"dolna 1",
+	"latitude":1234,
+	"longtitude":1234,
+	"postal_code":"3455",
+	"city":"Komarno",
+	"country":"Slovakia",
+	"state":"Slovakia"
+	},
+"amenities":["mikrovlnka", "sporak"],
+"users":{
+	"first_name":"Robo",
+	"last_name":"Mrkva",
+	"birth_date":123445,
+	"age":43,
+	"gender":"male",
+	"phone":"33444",
+	"email":"dffed@dffefe.com",
+	"reviews":{
+		"rating":4,
+		"comment":"super",
+		"review_date":"34.34.34"
+		},
+	"bookings":{
+		"checkin":"34.34.34",
+		"checkout":"32.21.23",
+		"noGuests":3
+		},
+	"payments":{
+		"amount":54.4,
+		"payment_date":"334.554.5",
+		"payment_method":"mastercard"
+		}
+	},
+"neighborhood":{
+		"neighborhood_name":"brooklyn"
+		},
+"photos":{
+	"photosUrl":"www.ddd.cc",
+	"description":"kupelna"
+}
+	}
+
+,
+{
+"id":2,
+"name":"Ubytovna 2",
+"guestincluded":0,
+"price":45.00,
+"minimumNights":1,
+"availability":1,
+"numberOfReviews":2,
+"lastReview":2,
+"roomTypes":{
+	"roomType_name":"jednopostelova",
+	"description":"spinava izba"
+	},
+"hosts":{
+	"name":"Jaro",
+	"responseTime":1717784078,
+	"responseRate": 1,
+	"listingsCount":5,
+"address":{
+	"street":"U jazera 3",
+	"postalCode":"9444",
+	"city":"Lesenice",
+	"country":"Cesko"
+	}
+	},
+"addresses":{
+	"street":"majova 2",
+	"latitude":1234,
+	"longtitude":1234,
+	"postal_code":"3455222",
+	"city":"Zvolen",
+	"country":"Slovakia",
+	"state":"Slovakia"
+	},
+"amenities":["uterak", "mydlo"],
+"users":{
+	"first_name":"Lucia",
+	"last_name":"Strakova",
+	"birth_date":122225,
+	"age":43,
+	"gender":"female",
+	"phone":"33444",
+	"email":"dffed@dffee.com",
+	"reviews":{
+		"rating":2,
+		"comment":"super",
+		"review_date":"34.34.34"
+		},
+	"bookings":{
+		"checkin":"34.34.34",
+		"checkout":"32.21.23",
+		"noGuests":2
+		},
+	"payments":{
+		"amount":222.4,
+		"payment_date":"334.554.5",
+		"payment_method":"visa"
+		}
+	},
+"neighborhood":{
+		"neighborhood_name":"Zvolen"
+		},
+"photos":{
+	"photosUrl":"www.ddd.cc",
+	"description":"spalna"
+	}
+	},
+	{
+
+	"id":3,
+"name":"Barmo",
+"guestincluded":1,
+"price":134.00,
+"minimumNights":4,
+"availability":1,
+"numberOfReviews":32,
+"lastReview":4,
+"roomTypes":{
+	"roomType_name":"dvojpostelova",
+	"description":"krasna, moderna izba"
+	},
+"hosts":{
+	"name":"Lupe",
+	"responseTime":1717784078,
+	"responseRate": 1,
+	"listingsCount":3,
+"address":{
+	"street":"Banskobystricka",
+	"postalCode":"948494",
+	"city":"Nitra",
+	"country":"Slovakia"
+	}
+	},
+"addresses":{
+	"street":"Zvolenska 5",
+	"latitude":1234,
+	"longtitude":1234,
+	"postal_code":"34559999",
+	"city":"Krupina",
+	"country":"Slovakia",
+	"state":"Slovakia"
+	},
+"amenities":["mikrovlnka", "sporak"],
+"users":{
+	"first_name":"Liza",
+	"last_name":"Simpson",
+	"birth_date":838383,
+	"age":23,
+	"gender":"female",
+	"phone":"33444",
+	"email":"lizaed@dffefe.com",
+	"reviews":{
+		"rating":4,
+		"comment":"super",
+		"review_date":"34.34.34"
+		},
+	"bookings":{
+		"checkin":"34.34.34",
+		"checkout":"32.21.23",
+		"noGuests":3
+		},
+	"payments":{
+		"amount":54.4,
+		"payment_date":"334.554.5",
+		"payment_method":"mastercard"
+		}
+	},
+"neighborhood":{
+		"neighborhood_name":"brooklyn"
+		},
+"photos":{
+	"photosUrl":"www.ddd.cc",
+	"description":"kupelna"
+}
+
+}
+]

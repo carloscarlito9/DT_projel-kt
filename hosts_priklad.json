@@ -1,0 +1,38 @@
+[
+{
+"name":"Jose",
+"responseTime":1717784078,
+"responseRate": 2,
+"listingsCount":3,
+"address":{
+	"street":"Holywood",
+	"postalCode":"948494",
+	"city":"Los Angeles",
+	"country":"California"
+}
+},
+{
+"name":"Jaroslav",
+"responseTime":1717784078,
+"responseRate": 5,
+"listingsCount":1,
+"address":{
+	"street":"Hlucha 2",
+	"postalCode":"93493",
+	"city":"Levice",
+	"country":"Slovensko"
+}
+},
+{
+"name":"Arpad",
+"responseTime":1717784078,
+"responseRate": 5,
+"listingsCount":6,
+"address":{
+	"street":"Balazs utca",
+	"postalCode":"9373673",
+	"city":"Budapest",
+	"country":"Hungaria"
+}
+}
+]
