@@ -1,0 +1,35 @@
+[
+{
+"addresses":{
+		"street":"opletalova 23",
+		"latitude":45.45,
+		"longtitude":3456,
+		"postal_code":"345321",
+		"city":"Bratislava",
+		"country":"Bratislavsky",
+		"state":"slovensko"
+		}
+},
+{
+"addresses":{
+		"street":"dolnozemska 1",
+		"latitude":45.54,
+		"longtitude":55332,
+		"postal_code":"93582",
+		"city":"Trnava",
+		"country":"Trnavsky",
+		"state":"slovensko"
+		}
+},
+{
+"addresses":{
+		"street":"Sokolovska 9",
+		"latitude":45.67,
+		"longtitude":223455,
+		"postal_code":"87634",
+		"city":"Zvolen",
+		"country":"Banskobystricky",
+		"state":"slovensko"
+		}
+}
+]
